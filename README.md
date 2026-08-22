@@ -1,5 +1,3 @@
-# Python-calculator
-A simple command-line calculator built in Python
 # Simple Python Calculator
 
 A command-line calculator built in Python that performs basic arithmetic operations.
