@@ -21,3 +21,22 @@ Enter the operation to be performed(+,*,-,/): +
 30.0
 ## About
 Built by Bindu, a BCA student currently learning Python from scratch. This is one of my first hands-on projects, built while practicing variables, conditionals, and basic program logic.
+
+
+---
+
+# Number Guessing Game
+
+A command-line number guessing game built in Python.
+
+## How to Play
+1. Run the script: `python guessing_game.py`
+2. The program picks a random number between 1 and 50
+3. Guess the number — you'll be told if you're too high or too low
+4. You have 10 attempts to guess correctly
+
+## What I Learned
+- Using the `random` module
+- Building interactive loops with `while True`
+- Tracking a running count (attempts) using `+=`
+- Balancing game difficulty (choosing a fair attempt limit)
